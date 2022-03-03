@@ -1,0 +1,39 @@
+lab1/FixedStepAnimationTicker.java
+ lab1.FixedStepAnimationTicker
+lab1/Configuration.java
+ lab1.Configuration
+lab1/Vector.java
+ lab1.Vector
+ lab1.Vector$1
+module-info.java
+ module-info
+lab1/EngineStatsHelper.java
+ lab1.EngineStatsHelper
+lab1/EngineView.java
+ lab1.EngineView
+lab1/WorldMapDrawer.java
+ lab1.WorldMapDrawer
+lab1/Animal.java
+ lab1.Animal
+lab1/Genes.java
+ lab1.Genes
+lab1/Main.java
+ lab1.Main
+lab1/GeneMixer.java
+ lab1.GeneMixer
+lab1/WorldMapGenerator.java
+ lab1.WorldMapGenerator
+lab1/Observer.java
+ lab1.Observer
+lab1/WorldMap.java
+ lab1.WorldMap
+lab1/EngineStatsView.java
+ lab1.EngineStatsView
+lab1/MultiEngineView.java
+ lab1.MultiEngineView
+lab1/Direction.java
+ lab1.Direction
+lab1/ConfigurationProvider.java
+ lab1.ConfigurationProvider
+lab1/Engine.java
+ lab1.Engine

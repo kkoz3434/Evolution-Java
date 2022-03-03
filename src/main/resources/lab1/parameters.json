@@ -1,0 +1,12 @@
+{
+  "jungleRatio": 0.5,
+  "moveEnergy": 1,
+  "grassAmount": 2,
+  "grassPerEra": 1,
+  "plantEnergy": 100,
+  "animalEnergy": 300,
+  "animalAmount": 20,
+  "mapWidth": 50,
+  "mapHeight": 50
+}
+

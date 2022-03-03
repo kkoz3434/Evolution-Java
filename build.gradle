@@ -1,0 +1,24 @@
+plugins {
+    id "application"
+    id "org.openjfx.javafxplugin" version "0.0.9"
+}
+
+group = "pl.koxlak"
+version = "1.0-SNAPSHOT"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "com.fasterxml.jackson.core:jackson-databind:2.12.0"
+}
+javafx{
+    version = "15.0.1"
+    modules= [ 'javafx.controls' ]
+}
+
+
+application{
+    setMainClassName("lab1.Main")
+}
